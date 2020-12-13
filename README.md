@@ -1,4 +1,8 @@
 ### 👋 Hi there I'm client!
+I'm a graphic designer and web developer.
+14 • he him • professional procastinator
+
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
 
 <!--
