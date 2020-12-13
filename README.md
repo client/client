@@ -1,6 +1,5 @@
 ### 👋 Hi there I'm client!
 I'm a graphic designer and web developer.
-
 14 • he him • professional procastinator
 
 
