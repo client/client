@@ -1,4 +1,5 @@
 ### 👋 Hi there I'm client!
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
 
 <!--
 **client/client** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
