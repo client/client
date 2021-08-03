@@ -9,8 +9,8 @@ I'm a graphic designer and a web  developer.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q12WY9S)
 
-[![client's GitHub stats](https://github-readme-stats.vercel.app/api?username=client&count_private=true&hide_border&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![client's GitHub stats](https://github-readme-stats.vercel.app/api?username=client&count_private=true&hide_border&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=client&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=client&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![client's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=client&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![client's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=client&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
