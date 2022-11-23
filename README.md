@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm client!
 I'm a graphic designer and a web  developer.
 
-15 • he/him • professional procastinator
+16 • professional procastinator
 
 #### 💬 Need to contact me?
 * Discord: client#1234
